@@ -3717,7 +3717,7 @@
   "workingPanel.files.feedback.refreshFailed": "刷新文件失败",
   "workingPanel.files.feedback.renameFailed": "无法重命名「{{name}}」：{{reason}}",
   "workingPanel.files.feedback.terminalFailed": "无法打开终端",
-  "workingPanel.files.feedback.trashUnsupported": "该设备没有可用的回收站，未删除任何文件。请在设备上直接删除",
+  "workingPanel.files.feedback.trashUnsupported": "该设备没有可用的{{trash}}，未删除任何文件。请在设备上直接删除",
   "workingPanel.files.feedback.trashed": "已将「{{name}}」移到{{trash}}",
   "workingPanel.files.feedback.trashedCount": "已将 {{count}} 个项目移到{{trash}}",
   "workingPanel.files.feedback.unsupportedOnDevice": "该设备上的应用版本过旧，请更新后重试",
